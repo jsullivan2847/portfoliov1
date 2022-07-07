@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is James, I'm a software engineer with a background in audio. I've just completed a coding bootcamp at General Assembly and I'm currently looking for work. A few years I taught myself C# through the Unity game engine and discovered my love for coding. To me it came naturally, I love making things, testing them out, and working out problems in code. In my time before this I spent a lot of time as a touring musician, playing and producing music and working in kitchens, where the pressure is high and things move very fast. From that I bring a great sense of urgency and ability to work with any team no matter what the struggle is.
+My name is James, I'm a software engineer with a background in audio. I've just completed a coding bootcamp at General Assembly and I'm currently looking for work. A few years I taught myself C# through the Unity game engine and discovered my love for coding. To me it came naturally, I love making things, testing them out, and working out problems in code. In my time before this I spent a lot of time as a touring musician, playing and producing music and working in kitchens, where the pressure is high and things move very fast. From that I bring a great sense of urgency and ability to work with any team no matter what the challenge.
 
 [![James’ github stats](https://github-readme-stats.vercel.app/api?username=jsullivan2847)](https://github.com/jsullivan2847)
 
